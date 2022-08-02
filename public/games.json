@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Bioshock",
+        "rating": 4.70,
+        "released": "2007-08-21",
+        "updated": "2016-10-06",
+        "background_image": "https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed"
+    },
+    {
+        "name": "Cities:Skylines",
+        "rating": 4.60,
+        "released": "2015-03-15",
+        "updated": "2022-03-15",
+        "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg?t=1654076112"
+    },
+    {
+        "name": "Final Fantasy IX",
+        "rating": 4.70,
+        "released": "2000-07-07",
+        "updated": "2016-04-14",
+        "background_image": "https://phantom-marca.unidadeditorial.es/e35b04659c977f69962edb9bf77cd764/crop/0x0/1916x1078/resize/660/f/webp/assets/multimedia/imagenes/2022/05/23/16533272728455.jpg"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Kerbal Space Program",
+        "rating": 4.85,
+        "released": "2015-04-27",
+        "updated": "2021-12-13",
+        "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/220200/header.jpg?t=1624555019"
+    },
+    {
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://www.zettagames.net/wp-content/uploads/2020/03/003.jpg"
+    },
+    {
+        "name": "SimCity 4",
+        "rating": 3.95,
+        "released": "2003-01-14",
+        "updated": "2003-10-22",
+        "background_image": "https://cdn.akamai.steamstatic.com/steam/apps/24780/header.jpg?t=1615244194"
+    },
+    {
+        "name": "Stardew Valley",
+        "rating": 4.86,
+        "released": "2006-02-18",
+        "updated": "2022-01-18",
+        "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg?t=1608624324"
+    },
+    {
+        "name": "The Witcher 3",
+        "rating": 4.85,
+        "released": "2015-05-18",
+        "updated": "2018-11-06",
+        "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_TheWitcher3WildHunt_enGB_image1600w.jpg"
+    }
+]
